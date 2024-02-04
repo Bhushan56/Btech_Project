@@ -1,1 +1,1 @@
-# Disease_Detection_and_Drug_Recommendation_System
+#This is an efficient Disease_Detection_and_Drug_Recommendation_System
